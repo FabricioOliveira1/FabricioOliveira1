@@ -5,15 +5,15 @@
 
 
 <br>
-Tenho 28 anos sou apaixonado por programação e musica, e estou buscando me aperfeiçoar a cada dia um pouco mais!
+I'm 28 years old, I'm passionate about programming and music, and I'm looking to improve myself a little more every day!
 <br>
 <br>
-🌱 Atualmente estudando Desenvolvimento Web com React.<br>
-🔭 Trabalhando no meu desenvolvimento profissional.
+🌱 Currently studying Web Development with React.<br>
+🔭 Working on my professional development.
 <br>
 <br>
 
-Tecnologias e Ferramentas
+Technologies and Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
