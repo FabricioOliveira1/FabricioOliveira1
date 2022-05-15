@@ -5,11 +5,12 @@
 
 
 <br>
-I'm 28 years old, I'm passionate about programming and music, and I'm looking to improve myself a little more every day!
+Sou um desenvolvedor Front-end tenho 28 anos de idade e moro Rio de Janeiro. Eu gosto de construir sites, landing pages e sistemas web, mas à medida que ganho conhecimento, continuo me desafiando e aprendendo mais.
+O meu principal objetivo é evoluir como desenvolvedor front-end. 
 <br>
 <br>
-🌱 Currently studying Web Development with React.<br>
-🔭 Working on my professional development.
+🌱 Atualmente estudando Frontent com React<br>
+🔭 Trabalhando no meu desenvolvimento profissional
 <br>
 <br>
 
