@@ -5,7 +5,7 @@
 
 
 <br>
-Sou um desenvolvedor Front-end tenho 29 anos de idade e moro Rio de Janeiro. Trabalho como freelancer desenvolvendo sites e landing pages com CMS, enquanto estudo para me especializar no Reactjs e todo seu ecossistema. Busco uma posição no mercado de trabalho para que eu possa evoluir e ganhar mais experiência na prática.
+Sou um desenvolvedor,cursando analise e desenvolvimento de sistemas, tenho 30 anos e moro Rio de Janeiro.
 O meu principal objetivo é evoluir como desenvolvedor front-end e suas tecnologias, universo pelo qual sou apaixonado. 
 <br>
 <br>
