@@ -5,7 +5,7 @@
 
 
 <br>
-Sou desenvolvedor, cursando análise e desenvolvimento de sistemas, tenho 30 anos e moro no Rio de Janeiro.
+Sou desenvolvedor, cursando análise e desenvolvimento de sistemas, tenho 32 anos e moro no Rio de Janeiro.
 O meu principal objetivo é evoluir como desenvolvedor front-end e suas tecnologias.
 <br>
 <br>
