@@ -6,10 +6,10 @@
 
 <br>
 Sou desenvolvedor, cursando análise e desenvolvimento de sistemas, tenho 32 anos e moro no Rio de Janeiro.
-O meu principal objetivo é evoluir como desenvolvedor front-end e suas tecnologias.
+O meu principal objetivo é evoluir como desenvolvedor front-end e mobile.
 <br>
 <br>
-🌱 Atualmente me especializando em Reactjs<br>
+🌱 Atualmente me especializando em Reactjs, React Native e seu ecossistema.<br>
 🔭 Trabalhando no meu desenvolvimento profissional
 <br>
 <br>
